@@ -1,4 +1,5 @@
 # ContactVerticalAlphabeticIndexerScroller
+![jet](https://github.com/user-attachments/assets/0bf1aae6-c3a7-496a-bbd4-5e75a5670239)
 
 This is an Android Jetpack Compose implementation of a contact list with a vertical alphabetic indexer and scrolling functionality.
 ![gif](https://github.com/user-attachments/assets/9583fc2b-b7a5-4647-b33a-9b21e4606aae)
